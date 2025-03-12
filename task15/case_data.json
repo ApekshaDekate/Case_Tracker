@@ -1,0 +1,77 @@
+{
+    "CaseDetails": {
+        "Case Type": "WP",
+        "Filing Number": "34914/2024",
+        "Filing Date": ": 03-12-2024",
+        "Registration Number": "1/2025",
+        "Registration Date": ":\u00a001-01-2025",
+        "CNR Number": "HCBM01-060054-2024"
+    },
+    "CaseStatus": {
+        "First Hearing Date": ":",
+        "Next Hearing Date": ":\u00a027th February 2025",
+        "Stage of Case": ":\u00a0FOR ADMISSION",
+        "Coram": ":\u00a05558HON'BLE SHRI JUSTICE A.S. CHANDURKAR , HON'BLE SHRI JUSTICE M. M. SATHAYE",
+        "Bench": ":\u00a0Division",
+        "State": ":\u00a0MAHARASHTRA",
+        "District": ":\u00a0PUNE",
+        "Judicial": ":\u00a0Civil",
+        "Causelist Name": ":\u00a0Daily Main",
+        "Short Order": ":\u00a0Adjournment",
+        "Not Before Me": ":"
+    },
+    "PetitionerAndAdvocate": "1) SADU DADU BHOSALE Advocate- SUKUMAR GHANAVAT",
+    "RespondentAndAdvocate": "1) THE STATE OF MAHARASHTRA THR GOVENMENT PLEADER AND ORS 2)  THE DIVISION COMMISSIONER 3)  THE COLLECTOR 4)  SUB-DIVISIONAL OFFICER 5)  THE TAHSILDAR 6)  THE CIRCLE OFFICER 7)  SAHEBRAO SADASHIV BHOSALE 8)  ATUL SAHEBRAO BHOSALE 9)  THE SASWAD POLICE STATION 10)  SAGAR D, JAGATAP",
+    "HistoryOfCaseHearing": [
+        {
+            "CauseListType": "Officer Causelist",
+            "Judge": "ASSISTANT REGISTRAR",
+            "BusinessOnDate": "17-12-2024",
+            "HearingDate": "",
+            "PurposeOfHearing": "OBJECTIONS TO BE REMOVED"
+        },
+        {
+            "CauseListType": "Officer Causelist",
+            "Judge": "ASSISTANT REGISTRAR",
+            "BusinessOnDate": "",
+            "HearingDate": "17-12-2024",
+            "PurposeOfHearing": "OBJECTIONS TO BE REMOVED"
+        }
+    ],
+    "Orders": [
+        {
+            "OrderNumber": "1",
+            "OrderOn": "WP/1/2025",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR,HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "OrderDate": "07-01-2025",
+            "OrderDetails": "View"
+        },
+        {
+            "OrderNumber": "2",
+            "OrderOn": "WP/1/2025",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR,HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "OrderDate": "21-01-2025",
+            "OrderDetails": "View"
+        }
+    ],
+    "CategoryDetails": {
+        "Category": "LAND LAWS AND AGRICULTURAL TENANCIES ( 21 )",
+        "Sub Category": "OTHERS ( 99 )"
+    },
+    "Objections": [
+        {
+            "SrNo": "1",
+            "ScrutinyDate": "19-12-2024",
+            "Objection": "All Objections are Complied",
+            "ComplianceDate": "--",
+            "ReceiptDate": "--"
+        },
+        {
+            "SrNo": "2",
+            "ScrutinyDate": "19-12-2024",
+            "Objection": "All Objections are Complied",
+            "ComplianceDate": "18-01-2025",
+            "ReceiptDate": "--"
+        }
+    ]
+}

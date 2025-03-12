@@ -1,0 +1,114 @@
+{
+    "CaseDetails": {
+        "Case Type": "WP",
+        "Filing Number": "34914/2024",
+        "Filing Date": ": 03-12-2024",
+        "Registration Number": "1/2025",
+        "Registration Date": ": 01-01-2025",
+        "CNR Number": "HCBM01-060054-2024"
+    },
+    "CaseStatus": {
+        "First Hearing Date": ":",
+        "Next Hearing Date": ": 05th March 2025",
+        "Stage of Case": ": FOR CIRCULATION",
+        "Coram": ": 5558HON'BLE SHRI JUSTICE A.S. CHANDURKAR , HON'BLE SHRI JUSTICE M. M. SATHAYE",
+        "Bench": ": Division",
+        "State": ": MAHARASHTRA",
+        "District": ": PUNE",
+        "Judicial": ": Civil",
+        "Causelist Name": ": Daily Main",
+        "Short Order": ": Adjournment",
+        "Not Before Me": ":"
+    },
+    "PetitionerAndAdvocate": "1) SADU DADU BHOSALE Advocate- SUKUMAR GHANAVAT",
+    "RespondentAndAdvocate": "1) THE STATE OF MAHARASHTRA THR GOVENMENT PLEADER AND ORS 2)  THE DIVISION COMMISSIONER 3)  THE COLLECTOR 4)  SUB-DIVISIONAL OFFICER 5)  THE TAHSILDAR 6)  THE CIRCLE OFFICER 7)  SAHEBRAO SADASHIV BHOSALE 8)  ATUL SAHEBRAO BHOSALE 9)  THE SASWAD POLICE STATION 10)  SAGAR D, JAGATAP",
+    "HistoryOfCaseHearingOnFilingNumber": [
+        {
+            "CauseListType": "Officer Causelist",
+            "Judge": "ASSISTANT REGISTRAR",
+            "BusinessOnDate": "17-12-2024",
+            "HearingDate": "",
+            "PurposeOfHearing": "OBJECTIONS TO BE REMOVED"
+        },
+        {
+            "CauseListType": "Officer Causelist",
+            "Judge": "ASSISTANT REGISTRAR",
+            "BusinessOnDate": "",
+            "HearingDate": "17-12-2024",
+            "PurposeOfHearing": "OBJECTIONS TO BE REMOVED"
+        }
+    ],
+    "HistoryOfCaseHearing": [
+        {
+            "CauseListType": "Daily Main",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR , HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "BusinessOnDate": "",
+            "HearingDate": "07-01-2025",
+            "PurposeOfHearing": "FOR CIRCULATION (URGENT ADMISSION)"
+        },
+        {
+            "CauseListType": "Daily Main",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR , HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "BusinessOnDate": "07-01-2025",
+            "HearingDate": "21-01-2025",
+            "PurposeOfHearing": "FOR CIRCULATION (URGENT ADMISSION)"
+        },
+        {
+            "CauseListType": "Daily Main",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR , HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "BusinessOnDate": "21-01-2025",
+            "HearingDate": "27-02-2025",
+            "PurposeOfHearing": "FOR ADMISSION"
+        },
+        {
+            "CauseListType": "Daily Main",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR , HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "BusinessOnDate": "12-02-2025",
+            "HearingDate": "24-04-2025",
+            "PurposeOfHearing": "FOR CIRCULATION"
+        }
+    ],
+    "Orders": [
+        {
+            "OrderNumber": "1",
+            "OrderOn": "WP/1/2025",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR,HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "OrderDate": "07-01-2025",
+            "OrderDetails": "View"
+        },
+        {
+            "OrderNumber": "2",
+            "OrderOn": "WP/1/2025",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR,HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "OrderDate": "21-01-2025",
+            "OrderDetails": "View"
+        },
+        {
+            "OrderNumber": "3",
+            "OrderOn": "WP/1/2025",
+            "Judge": "HON'BLE SHRI JUSTICE A.S. CHANDURKAR,HON'BLE SHRI JUSTICE M. M. SATHAYE",
+            "OrderDate": "12-02-2025",
+            "OrderDetails": "View"
+        }
+    ],
+    "CategoryDetails": {
+        "Category": "LAND LAWS AND AGRICULTURAL TENANCIES ( 21 )",
+        "Sub Category": "OTHERS ( 99 )"
+    },
+    "Objections": [
+        {
+            "SrNo": "1",
+            "ScrutinyDate": "19-12-2024",
+            "Objection": "All Objections are Complied",
+            "ComplianceDate": "--",
+            "ReceiptDate": "--"
+        },
+        {
+            "SrNo": "2",
+            "ScrutinyDate": "19-12-2024",
+            "Objection": "All Objections are Complied",
+            "ComplianceDate": "18-01-2025",
+            "ReceiptDate": "--"
+        }
+    ]
+}
