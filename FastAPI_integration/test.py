@@ -3,10 +3,10 @@ from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import requests
-import json
-import time
+#import json
+#import time
 from io import BytesIO
-import base64
+#import base64
 import numpy as np
 import cv2
 import pytesseract

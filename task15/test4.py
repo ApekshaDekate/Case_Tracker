@@ -1,3 +1,6 @@
+#This code is for Bombay High Court with csrf token
+
+
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -280,4 +283,3 @@ while True:
     input("Press Enter to continue...")
 
 
-#This code is for Bombay High Court
