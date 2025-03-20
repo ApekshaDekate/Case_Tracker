@@ -120,7 +120,17 @@ def parse_html_to_json(file_path: str, session: requests.Session) -> dict:
 
     # Extract Respondent and Advocate
     respondent_section = soup.find('span', class_='Respondent_Advocate_table')
-    result["RespondentAndAdvocate"] = respondent_section.get_text(strip=True, separator=" ") if respondent_section else ""
+
+    if respondent_section:
+        # Get text with proper spacing
+        respondent_text = respondent_section.get_text(strip=True, separator=" ")
+
+        # Use regex to split respondents based on numbering (1), 2), etc.)
+        respondent_list = re.split(r'\d+\)\s+', respondent_text)[1:]  # Ignore the first empty element
+
+        result["RespondentAndAdvocate"] = respondent_list  # Store as a list
+    else:
+        result["RespondentAndAdvocate"] = []
 
     # Extract Subordinate Court Information
     result["SubordinateCourtInformation"] = {}
